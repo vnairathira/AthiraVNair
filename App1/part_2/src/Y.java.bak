@@ -1,0 +1,13 @@
+class Y
+{
+	public static void main(String[] args) 
+	{
+		if (false)
+		if(true)
+			System.out.println("from innerif");
+		else
+		System.out.println("mainend");
+		else
+		System.out.println("mainend");
+	}
+}

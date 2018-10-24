@@ -1,0 +1,10 @@
+class B
+{
+	public static void main(String[] args) 
+	{
+		//int i;
+		for(int i=5;i>0;i--);
+		System.out.println("loop"+i);
+		System.out.println("main"+i);// error...
+	}
+}
