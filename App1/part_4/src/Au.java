@@ -1,0 +1,11 @@
+class Au 
+{
+	//static 
+		int x;
+	   // x=40;
+	public static void main(String[] args) 
+	{
+		Au a=new Au();
+		System.out.println(a.x);
+	}
+}

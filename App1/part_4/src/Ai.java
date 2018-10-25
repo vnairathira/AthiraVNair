@@ -14,6 +14,7 @@ class Ai
 		System.out.println(j); 
 		System.out.println(k); 
 		System.out.println(b); 
-		return 200f;
+		//return 200f;
+		return 200.44
 	}
 }
